@@ -1,2 +1,3 @@
 user_input = input("Please input your name: ")
-print(f"Welcome {user_input}")
+Message = f"Welcome {user_input}"
+print(message)
